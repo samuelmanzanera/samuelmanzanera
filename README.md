@@ -10,7 +10,9 @@ I'm a fullstack software engineer and architect from France
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/samuel-manzanera-277371120/))
+![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamuel-manzanera-277371120%2F)
+
+
 
 <br>
 <br>
