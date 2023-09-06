@@ -12,6 +12,9 @@ I'm a fullstack software engineer and architect from France
 
 ![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamuel-manzanera-277371120%2F)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamuel-manzanera-277371120%2F)
+
+
 
 
 <br>
